@@ -1,1 +1,13 @@
 @import "tailwindcss";
+
+.houraizonhr{
+    border: 1px solid;
+    transform: rotate(-90deg);
+}
+.search-bar{
+    transform: translate(120%);
+}
+.mic-button{
+     background: transparent;
+    border: none;
+}
